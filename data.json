@@ -1,3 +1,12 @@
 {
-    "todos": ["go to the school", "create data", "write conspect"]
+    "todos": [
+        {
+            checked: true,
+            text: "Lorem Ipsum"
+        },
+        {
+            checked: false,
+            text: "Domi More"
+        }
+    ]
 }
