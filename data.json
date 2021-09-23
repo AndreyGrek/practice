@@ -1,12 +1,12 @@
 {
     "todos": [
         {
-            checked: true,
-            text: "Lorem Ipsum"
+            "checked": true,
+            "text": "Lorem Ipsum"
         },
         {
-            checked: false,
-            text: "Domi More"
+            "checked": false,
+            "text": "Domi More"
         }
     ]
 }
